@@ -1,0 +1,639 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A bundle of myrrhe. Or Several sweet truths spiritually unfolded under these following heads. 1. Mercy magnified. 2. Practical graces. 3. Christs humiliation. 4. Certainty of salvation. Published by H.P. minister of the Gospel.</title>
+            <author>Prime, H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 67 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91010</idno>
+            <idno type="STC">Wing P3458</idno>
+            <idno type="STC">Thomason E1476_1</idno>
+            <idno type="STC">ESTC R209523</idno>
+            <idno type="EEBO-CITATION">99868399</idno>
+            <idno type="PROQUEST">99868399</idno>
+            <idno type="VID">170006</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91010)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170006)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 189:E1476[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A bundle of myrrhe. Or Several sweet truths spiritually unfolded under these following heads. 1. Mercy magnified. 2. Practical graces. 3. Christs humiliation. 4. Certainty of salvation. Published by H.P. minister of the Gospel.</title>
+                  <author>Prime, H.</author>
+               </titleStmt>
+               <extent>60 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by R.I. for Livewell Chapman, and are to be sold at his shop at the Crown in Popes-head-alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>H.P. = Henry Prime.</note>
+                  <note>Annotation on Thomason copy: "Sept: 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mercy --  Early works to 1800.</term>
+               <term>Salvation --  Early works to 1800.</term>
+               <term>Grace (Theology) --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170006:1" rendition="simple:additions"/>
+            <p>A BUNDLE OF MYRRHE. OR Several ſweet Truths Spiritually unfolded under theſe following Heads.<list>
+                  <item>1. <hi>Mercy magnified.</hi>
+                  </item>
+                  <item>2. <hi>Practical Graces.</hi>
+                  </item>
+                  <item>3. <hi>Chriſts Humiliation.</hi>
+                  </item>
+                  <item>4. <hi>Certainty of Salvation.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Publiſhed by <hi>H. P.</hi> Miniſter of the Goſpel.</p>
+            <q>
+               <bibl>
+                  <hi>2 Pet. 1.16.</hi>
+               </bibl>
+               <p> We have not followed cunningly deviſed fables.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Pſal. 138.2.</hi>
+               </bibl>
+               <p> Thou haſt magnified thy Word above all thy Name.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Col. 3.16.</hi>
+               </bibl>
+               <p> Let the Word of Chriſt dwell in you richly.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>R. I.</hi> for <hi>Livewell Chapman,</hi> and are to be ſold at his ſhop at the Crown in Popes-head-alley. 1653.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:170006:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:170006:2"/>
+            <head>TO The much Honored Gentlewoman M<hi rend="sup">ris</hi> 
+               <hi>Prudence Thorold,</hi> at Her Houſe at <hi>Clapham. Grace and Peace in our Lord.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Ruly Honored, I here preſent you with a few ſmall peeces, obſerving that ſmaller Tractates have been of greater uſe among many, and ſtill are; eſpeci<g ref="char:EOLhyphen"/>ally ſuch as ſpeak Scripture to us in power and plainneſs. The leſſer peeces of Mr. <hi>Perkins, viz. His grain of Muſter-ſeed, Golden Chain, Govern<g ref="char:EOLhyphen"/>ment of the tongue,</hi> like to Pearls, even much deſired and eſteem'd as <hi>bearing the more lively impreſsion of the ſtrength and ſpirit of their Maker.</hi> And ſuch is that little Book (which for Honors ſake I mention) entituled, <hi>Chriſt ſet
+<pb n="4" facs="tcp:170006:3"/>forth,</hi> an entire peice worth its weight in Gold, wherein the Author upon that Argument, the cheif of all de<g ref="char:EOLhyphen"/>ſirable Truths, hath ſatisfied his Rea<g ref="char:EOLhyphen"/>der more abundantly, even to the ful. It was told me once, that <hi>Aquinas</hi> being asked, What if all <hi>Paris</hi> were his? anſwered, I had rather be the Author of the imperfect work of <hi>Chryſoſtom;</hi> a ſmall and broken Tra<g ref="char:EOLhyphen"/>ctate. Alſo greater Volumns have their uſe, ſuch as Mr. <hi>Foxes</hi> Book of <hi>Martyrs,</hi> a Volumn compoſed for the good of <hi>England,</hi> if ever any, a Book that can never be out of date; and I believe is of the Cabinet with moſt wiſe men; for ſeldom any work of induſtry and eminency ap<g ref="char:EOLhyphen"/>pears, but ſavors much of the ſpirit, and rich experience Treaſured in thoſe A<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>lles. I mention this the rather, becauſe perceiving the Eng<g ref="char:EOLhyphen"/>liſh of this age to be under a very rich bleſſing of an encreaſe of Sacred Knowledge, next unto the Sacred
+<pb n="5" facs="tcp:170006:3"/>Scriptures, the <hi>Wells of Salvation,</hi> thoſe of our Nation would come and draw here, rejecting the watry Pamphlets ſo much abroad, enfee<g ref="char:EOLhyphen"/>bling mens ſpirits, yea, our choiceſt wits have bin moſt infected by them.</p>
+            <p>As for thoſe thicker and groſſer ſort of ſouls amongſt us, I mean the prophane and ignorant multitude, I am much at a loſs in my thoughts for them, and yet I think again, had we ſuch proviſion on foot as would reach them, I cannot think but a good account might be given of them, as there hath been of late of the like, in ſome parts of <hi>Wales,</hi> even to admiration; for as I dare not en<g ref="char:EOLhyphen"/>tertain ſuch a thought, as if God had appointed theſe poor people, we ſpeak of, all of them to miſery; ſo I hope in due time, it will not be found impoſſible to reſcue them out of Satans power, of whom they are taken at his pleaſure.</p>
+            <p>For when thoſe prophecies ſhall
+<pb n="6" facs="tcp:170006:4"/>be fulfilled, which ſay, <hi>That the veil ſhall be taken off from all hearts, and the kingdoms of this world, become the king<g ref="char:EOLhyphen"/>doms of our Lord, and of his Son Chriſt, and the ſinners of the Nations, both Gen<g ref="char:EOLhyphen"/>tiles and Jews ſhall have the Spirit of Grace poured upon them, and ſhall look upon him whom they have peirced, and mourn after him; in that day there ſhall be a Fountain opened for them to waſh in, even from ſins of ſeparation.</hi>
+            </p>
+            <p>Truly Honored, I know you are of the Bride chamber, and do expect the coming of the Bridegroom, as all the wiſe Virgins do. May it there<g ref="char:EOLhyphen"/>fore ever be your <hi>Care,</hi> and <hi>Crown,</hi> to have your Lamp trimmed, and your Veſſel filled, I mean an abundant en<g ref="char:EOLhyphen"/>creaſe of Heavenly Wiſdom and Watchfulneſs; ſo ſhall that day be to you as the Hinde of the Morning, an early day of entrance upon an e<g ref="char:EOLhyphen"/>ternity of reſt and refreſhing.</p>
+            <closer>
+               <signed>Such is the deſire of him that honoreth you, and is your ſervant in our Lord, H. Prime.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="7" facs="tcp:170006:4"/>
+            <head>Mercy Magnified.</head>
+            <epigraph>
+               <bibl>
+                  <hi>LUK. 17.13.</hi>
+               </bibl>
+               <q>
+                  <p>Have mercy on us.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Hey would be healed, that required power; they crave mercy whereby Chriſt might be moved to uſe his power for their help.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label>
+               <hi>Mercy is the fountain of all the help of mans miſery, of temporal or ſpiritual good;
+common or ſpecial mercy, is that which moves God.</hi>
+            </p>
+            <p>His goodneſs wherewith the <hi>Earth is filled,</hi> is called <hi>his mercy, Pſa.</hi> 119.64. And that which all his Creatures partake of, <hi>Pſal.</hi> 145. <hi>his tender mercies,</hi> that his own people <hi>are not conſumed, Lam.</hi> 3.22. recover out of ſickneſs, or have their ſorrows
+<pb n="8" facs="tcp:170006:5"/>moderated, it is of his mercy, <hi>Phil.</hi> 2.27. that they have the bleſſing of marriage in children, of their labors in ſtock, <hi>Gen.</hi> 32.10. <hi>&amp;</hi> 33.5.</p>
+            <p>Spiritual bleſſings are of his mercy, as <hi>election</hi> to ſalvation, and the <hi>means</hi> of it.</p>
+            <p>It was his mercy to <hi>Jacob,</hi> that he <hi>loved him</hi> and not <hi>Eſau, who will ſhew mercy on whom be will;</hi>
+               <note place="margin">Rom. 9.28, 23.</note> the <hi>elect</hi> are therefore called <hi>Veſſels of mercy.</hi>
+            </p>
+            <p>That which moved him to ſend his <hi>Son,</hi> that the world might live by him, was his tender mercy, <hi>Forgiveneſs of ſins, Luk.</hi> 1.78. Acceptation in Chriſt, 1 <hi>Tim.</hi> 1.16. Quickning, or regeneration, <hi>Eph.</hi> 2.4, 5. 1 <hi>Pet.</hi> 1.4.</p>
+            <p>The whole work of our ſalvation is of <hi>his mercy, Tit.</hi> 9.3, 5. Eternal life is not of works, which we work, but of the <hi>mercy that God ſheweth,</hi> 2 <hi>Tim.</hi> 1.18.</p>
+            <p>Take the beſt of the ſons of men, he needs mercy at the day of judgement; Wo to the holieſt life judged, without mercy, <hi>Pſal.</hi> 130.3, 4.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> This may move in all the help we finde from God, in any of our miſeries; in all the good we receive, temporal or ſpiritual, to give God the glory of his
+<pb n="9" facs="tcp:170006:5"/>mercy, which moved him, and nothing either had or hoped for from us.</p>
+            <p>He doth good to them <hi>that love him, Exod.</hi> 20.6. To them <hi>that fear him, Pſal.</hi> 103.13. To them that ſeek him, and fall down <hi>at his feet, Matth.</hi> 18.27. That ſhew mercy to their Brethren, <hi>Matth.</hi> 5. But it is not of the merit of their love, fear, humility, mercy; for all theſe are ſo defective and ſtain'd with ſinful pollu<g ref="char:EOLhyphen"/>tion, that without mercy they cannot have acceptance with him: But it is his mercy that pardons all their ſins, that love him, and keep his Commandments, and rewards them here and hereafter, with admiration they glorifie his mercy, <hi>Mic.</hi> 7.18.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> It may encourage us,
+notwithſtanding the ſenſe of much wretchedneſs, and unworthineſs, to ſeek the Lord for our help truſting in his mercy. He is the Fa<g ref="char:EOLhyphen"/>ther of mercies, mercy is his unſepara<g ref="char:EOLhyphen"/>ble property, <hi>Exod.</hi> 34.7. He delighteth in ſhewing mercy, that men will give place to it, <hi>Jer.</hi> 9.24. <hi>Mic.</hi> 7.18. He waits that he may be gracious, and will be ex<g ref="char:EOLhyphen"/>alted, that he may have mercy on his people, <hi>Iſa.</hi> 30.18. He cannot forget to be merciful, <hi>Iſa.</hi> 49.15. With the know<g ref="char:EOLhyphen"/>ledge
+<pb n="10" facs="tcp:170006:6"/>whereof <hi>David</hi> upholds his ſoul in a temptation of deſpair, <hi>Pſal.</hi> 77.7, 8. It cannot be corrupted by the contrary, <hi>his wrath, Pſal.</hi> 77.9. <hi>In wrath he remembers mercy, Hab.</hi> 3.2.</p>
+            <p>It cannot be worn out by time, it is everlaſting, endures for ever, <hi>Iſa.</hi> 54.7, 8. It is not wearied with multitude, <hi>Exod.</hi> 34.7. <hi>Luk.</hi> 1.50. <hi>Exod.</hi> 20.6.</p>
+            <p>It cannot be too ſcant for all their mi<g ref="char:EOLhyphen"/>ſeries and fins that ſeek it. God is rich in mercy unto all that call upon him, <hi>Rom.</hi> 10. With him is plenteous redempti<g ref="char:EOLhyphen"/>on, <hi>Pſal.</hi> 130.7. <hi>Abounding above ſin, Rom.</hi> 5.20. And his pleaſure is in them that hope in his mercy, <hi>Pſal.</hi> 147.11.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> His ſaving mercy is limited by his will to a certain number of perſons,
+whom as by name he hath choſen to be <hi>Veſſels</hi> of his mercy; how can I tell, that I am one of them to whom mercy belongs in <hi>Gods purpoſe?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> Leave ſecret things to God,
+and walk by things revealed, <hi>Deut.</hi> 29.29. Your ſhutting out from Gods mercy is no where revealed, why then will you carry ſuch an evil ſuſpition of God, as that he hath not willed mercy to you?</p>
+            <p>He hath revealed his Son and his pro<g ref="char:EOLhyphen"/>miſe
+<pb n="11" facs="tcp:170006:6"/>of mercy in him to you, and gi<g ref="char:EOLhyphen"/>ven you commandment to believe it; It is ſaid to your face, <hi>Believe thou in the Lord Jeſus, and thou ſhalt be ſaved.</hi>
+            </p>
+            <p>In both the Sacraments, not onely Chriſt, with his benefits of the mercy of God is offered to you, but the Applica<g ref="char:EOLhyphen"/>tion of him repreſented in the ſigns; and believe God dealeth ſeriouſly with you.</p>
+            <p>You are forbidden ſuch prejudice, and putting flumbling blocks before your Faith, <hi>Iſa.</hi> 56.2, 3, 6.</p>
+            <p>To them that <hi>believe,</hi> to them that <hi>re<g ref="char:EOLhyphen"/>pent,</hi> and would finde grace and favor with God, God hath <hi>opened a Fountain</hi> for ſins, even for ſins of ſeparation, <hi>Zach.</hi> 13.1.</p>
+         </div>
+         <div type="part">
+            <pb n="12" facs="tcp:170006:7"/>
+            <head>Practical Graces.</head>
+            <epigraph>
+               <bibl>
+                  <hi>COL. 3.13.</hi>
+               </bibl>
+               <q>
+                  <p>Forbear, forgive, as Chriſt forgave you, ſo do ye.</p>
+               </q>
+            </epigraph>
+            <p>THe exerciſe of long ſuffering is in forbearing and forgiving our Bre<g ref="char:EOLhyphen"/>thren.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label>
+               <hi>It is our duty to hold,
+and not to loſe our meekneſs and calmneſs of ſoul, for continuance of afflictions or injuries.</hi>
+            </p>
+            <p>God commands long-ſuffering, a continued calmneſs of minde in mode<g ref="char:EOLhyphen"/>ration of anger, ſlow to wrath, <hi>Jam.</hi> 1.</p>
+            <p>Our affections ſhould be all at Gods command, to move or reſt at his will.</p>
+            <p>Our anger muſt be ſet on work, as the executioner is by the Magiſtrate, as the ſervant by the Maſter, by appoint<g ref="char:EOLhyphen"/>ment with the known will of God, at that to come and go.</p>
+            <pb n="13" facs="tcp:170006:7"/>
+            <p>Anger may be of good uſe, as fire, but when it is in our power, to call it up and ſuppreſs it, that we uſe no more of it, then is needful. Fire in the top of the Chimney, is dangerouſly out of place: Uſe anger like quick-ſilver, well temper<g ref="char:EOLhyphen"/>ed with love, or elſe it will eat in dan<g ref="char:EOLhyphen"/>gerouſly.</p>
+            <p>We have Gods example in the repro<g ref="char:EOLhyphen"/>bate, to whom he is kinde, bountiful,
+<note place="margin">Rom. 2.4. Rom. 9.</note> and long in patience, ſuffering their manners; alſo in the elect, unto whom his long-ſuffering <hi>is ſalvation,</hi>
+               <note place="margin">2 Pet. 3.15.</note> in wait<g ref="char:EOLhyphen"/>ing to have compaſſion upon them, <hi>Iſa.</hi> 30.18.</p>
+            <p>It is a great part of our comfort to be as he is in this world, evidence of our adoption and filiation; that we have the <hi>godly nature, Luk.</hi> 6.35. and expreſs his vertues.</p>
+            <p>This is one of the fruits of the Spirit, by which we know whether he dwell in us, and whether the Law have left his curſing force in us, or no, <hi>Gal.</hi> 5.22, 23. by which Gods ſervants <hi>approve them<g ref="char:EOLhyphen"/>ſelves,</hi> 2 <hi>Cor.</hi> 6.6.</p>
+            <p>It is a great glory to a man, Firſt, of diſcretion and wiſdom, <hi>Prov.</hi> 14.29. <hi>&amp;</hi> 19.11. Whereas an haſty ſpirit deals
+<pb n="14" facs="tcp:170006:8"/>fooliſhly, yea, <hi>exalts folly, Prov.</hi> 14.17, 29. Lifts it up, that all may ſee it. Se<g ref="char:EOLhyphen"/>condly, It is his glory in power, above a <hi>mighty man that wins a City, Prov.</hi> 16.32. for he conquers and leads in triumph, not onely fleſh and blood, but devils full of malice, <hi>Eph.</hi> 6.</p>
+            <p>
+               <hi>Let patience have her perfect work, Jam.</hi> 1.4. where ye lack this wiſdom and power, pray; conſider how long you have been ſuffered and waited for, do you ſo alſo to others, eſpecially in ſeek<g ref="char:EOLhyphen"/>ing their converſion, 2 <hi>Tim.</hi> 2.25. And amendment of ſome manners in the weak Chriſtian, <hi>forbearing one another.</hi>
+            </p>
+            <p>This belongs to the Elect and ſancti<g ref="char:EOLhyphen"/>fied, the beloved of God; to exerciſe their love to their brethren, in bearing with the weak in faith or practiſe, 1 <hi>Theſ.</hi> 5.4. and that long, and forbear<g ref="char:EOLhyphen"/>ing and ſupporting them, <hi>Epheſians</hi> 4.2.</p>
+            <p>We muſt <hi>bear one anothers burthen, Gal.</hi> 6.2. Such manners and infirmities as are either of natural conſtitution, and diſ<g ref="char:EOLhyphen"/>poſition, or over-ſight of ignorance, or prevailing of corruption, which in ſome degree is mortified, that are grievous and troubleſome to bear as burdens; we
+<pb n="15" facs="tcp:170006:8"/>muſt paſs over divers offences, and not take notice of every act of infirmity: Some if we take notice of them for ad<g ref="char:EOLhyphen"/>monition and amendment, yet we muſt ſo bear, as we alienate not our mindes, nor caſt them out of our friendſhip for them, ſeeing <hi>the root of the matter may be in them,</hi> not perſecute them with our ſuſpition and cenſure rigorouſly, <hi>Job</hi> 19.19, 22, 28. nor ſuffer our firſt exactions of them to be ſo ſtrict and mercileſs, as to bear nothing, but give them time to profit, <hi>Phil.</hi> 3.15.16. and wait for them.</p>
+            <p>Conſider the difference of age in Chriſtians, ſome are as Babes in Chriſt, ſome yong men, ſome old men: Babes have the true nature of men, and may have ſtrength meet for Babes, though weak, compared with Men; ſo Babes in Chriſt have the true parts of Nature, of Chriſtianity, though not ſtrength of ſpiritual faculty, whereby corruption more ſhews it ſelf, 1 <hi>Cor.</hi> 3. 2. Among the ſtrong, all are not alike, ſome are in health, and hold their ſtrength; ſome are ſick, and the diſeaſe troubles their conſtitution. God tenders the weak, and ſpares them,
+<note place="margin">Mal. 3.</note> 
+               <hi>as a man ſpares his
+<pb n="16" facs="tcp:170006:9"/>ſon that ſerves him; bears the Lambs in his boſome;
+<note place="margin">Iſa. 40.11.</note> and gently leads them that are with young;</hi> takes care of the ſick, <hi>Ezek.</hi> 34.4, 16.</p>
+            <p>And ſo do his ſervants tender the weak, 2 <hi>Cor.</hi> 11.29. The ſpirit is willing, but the fleſh is weak, but of weak be<g ref="char:EOLhyphen"/>ginnings will Chriſt bring forth his Kingdom victoriouſly, <hi>Matth.</hi> 12. and encreaſe their power, <hi>Iſa.</hi> 40.31.</p>
+            <p>Rigor is a dangerous maſterſhip, <hi>Jam.</hi> 3. and is of pride, and ignorance of a mans ſelf, <hi>Gal.</hi> 6.3. All need Gods for<g ref="char:EOLhyphen"/>bearing, and may need the forbear<g ref="char:EOLhyphen"/>ing of the Brethren, they may be tempted.</p>
+            <p>It is much for Unity and Peace to forbear, <hi>Eph.</hi> 4.23. in Church, Common<g ref="char:EOLhyphen"/>wealth, Family.</p>
+            <p>
+               <hi>Forgiving one another.</hi> This is alſo in long-ſuffering required of the beloved of God, to forgive one another, where they have manifeſt cauſe to complain.</p>
+            <p>This is of neceſſity, to hold aſſurance of Gods forgiving us, <hi>Matth.</hi> 18.35. <hi>Luke</hi> 6.37. it is commanded, <hi>Eph.</hi> 4.32. Becauſe we are forgiven, it is nothing to give, unleſs we forgive. <hi>Oughteſt thou not to have had compaſſion of thy fellow-ſervant,
+<pb n="17" facs="tcp:170006:9"/>as I had compaſſion on thee.</hi> Chriſt forgiving us, muſt be our pattern as well as our motive.</p>
+            <p>As Gods rule is, <hi>Levit.</hi> 19.18. to for<g ref="char:EOLhyphen"/>give in three degrees,</p>
+            <p>Firſt, The revenge, not <hi>recompencing evil for evil,</hi> 1 <hi>Theſ.</hi> 5. it belongs to God. Say not, I will do to him as he hath done to me. <hi>Proverb.</hi>
+            </p>
+            <p>Secondly, The grudge upon the re<g ref="char:EOLhyphen"/>membrance of the wrong, God forgives the puniſhment, and remembers the ſins no more, urgeth them not with the <hi>mention</hi> of them, <hi>Ezek.</hi> 33.16. nor hin<g ref="char:EOLhyphen"/>ders himſelf from doing them good, or praiſing the good he ſeeth in them for former injuries, <hi>Iſa.</hi> 54.9.</p>
+            <p>Thirdly, So to forgive, as to <hi>love him,</hi>
+               <note place="margin">Matth. 5.</note> that hath done the wrong <hi>as my ſelf,</hi> for an enemy is my Neighbor, and within that Royal Law, be he poor or rich. God ſo forgives us, as he loveth us with the ſame love, wherewith he loveth his own Son, in whom his ſoul delighteth, <hi>Joh.</hi> 17.</p>
+            <p>Fourthly,
+<note place="margin">Matth. 18.32. 1 Pet. 4.</note> God forgiveth fully all ſins that we commit; for <hi>love covers all treſ<g ref="char:EOLhyphen"/>paſſes,</hi> though the offences have been often committed, not once, but a thou<g ref="char:EOLhyphen"/>ſand
+<pb n="18" facs="tcp:170006:10"/>times, though often in one day. So we till <hi>ſeventy times ſeven times, Matth.</hi> 18.21. <hi>Seven times in a day, Luke</hi> 17.4. Where we ſee Repentance and the of<g ref="char:EOLhyphen"/>fender grieved and bruiſed, we are to comfort him, as forgiven of God, the ſin as well as of us the ſcandal or treſ<g ref="char:EOLhyphen"/>paſs, 2 <hi>Cor.</hi> 2.7. And we muſt confirm our love to him. <hi>As Chriſt forgave you.</hi> This being put as a motive and pattern, <hi>our forgiveneſs received of Chriſt.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> It appears, and is preſuppoſed as granted,
+<hi>That Chriſtians do know that their ſins are forgiven them.</hi>
+            </p>
+            <p>In this ſtands the cheif part of their comfort, <hi>The knowledge of ſalvation by the remiſſion of their ſins,</hi> Luk. 1.77.</p>
+            <p>
+               <hi>John</hi> before his precepts of love and good works, and evidence of ſalvation by them, ſets down this as their cheif foundation of comfort, their ſins are forgiven for Chriſts ſake, 1 <hi>John</hi> 2.12. though the conſcience of inherent righ<g ref="char:EOLhyphen"/>teouſneſs is a good prop to hope; yet it is ſo little, and corruption ſo much, and ſenſible to them that have light and life, that when they ſee God in Maje<g ref="char:EOLhyphen"/>ſty, and contemplate his holineſs and ſpiritualneſs of his Law, they cry out
+<pb n="19" facs="tcp:170006:10"/>of their own miſery and death, <hi>Rom.</hi> 7.24. and forget ſometimes they are ſe<g ref="char:EOLhyphen"/>parate from them that periſh, <hi>Iſai.</hi> 6.5. till the knowledge of forgiveneſs be confirmed in them, <hi>v.</hi> 7, 8.</p>
+            <p>In this <hi>David</hi> reckons a mans bleſſed<g ref="char:EOLhyphen"/>neſs, that the burthen of his ſins is lift<g ref="char:EOLhyphen"/>ed off from his Conſcience, and the quarrel taken up between God and him, <hi>Pſal.</hi> 32.1.</p>
+            <p>Queſt.
+<label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label>
+               <hi>How may a man that yet is doubt<g ref="char:EOLhyphen"/>ful, be perſwaded, that his ſins be forgiven him?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label>
+               <hi>Anſwa.</hi>
+By the beginning of the work of the Spirit of Adoption,
+<note place="margin">Rom. 8.15. Luke 4.8.</note> inſpiring the motion of Faith, and working a mans ſoul, bruiſed for his ſins, to ſeek Gods face and favor in Chriſt, by the Com<g ref="char:EOLhyphen"/>mandment of believing, with love to obey it.</p>
+            <p>The <hi>ſmoaking flax,</hi>
+               <note place="margin">Bruiſed by weight, and ſtri<g ref="char:EOLhyphen"/>ving for liberty.</note> and the <hi>bruiſed reed ſhall not be quenched. Grace</hi> ſaving is al<g ref="char:EOLhyphen"/>ready poured into the ſoul, which ſhall after appear in more ſtrength, <hi>Iſai.</hi> 54.6.</p>
+            <p>Affliction of ſpirit in Conſcience of injury to God, as a wife that hath been falſe, and would return to her husbands favor: Thus promiſes are made to them
+<pb n="20" facs="tcp:170006:11"/>that be <hi>troubled in ſpirit,</hi> that afflict them<g ref="char:EOLhyphen"/>ſelves for Gods offence, and God is ſaid to <hi>delight</hi> in ſuch as <hi>cheif ſacrifice, Pſal.</hi> 51. <hi>and will dwell with them.</hi> It argueth a minde reconciled to God, which cannot be but by grace, when his favor is ſo ſought,
+<note place="margin">Rom. 8.5, 7.</note> his friendſhip ſo deſired, that nothing will ſatisfie a man till he finde it.</p>
+            <p>God eaſeth not men of all their grief at once,
+<note place="margin">Luke 7.47, 48, 50. She was perſwaded that he was her onely refuge, but remained afflicted, and Im<g ref="char:EOLhyphen"/>gring for relief and found comfort.</note> but holds them lingring after him, onely his ſtirring up their deſire to him, and moving their love in ſuch paſ<g ref="char:EOLhyphen"/>ſion for him, argueth he is reconciled, and hath forgiven the injury, <hi>Cant.</hi> 5.4, 5, 6.</p>
+            <p>As it is in the recovering of peace, ſo in the firſt working, for moſt part, by our affection to God ſetled, know we his affection to us.</p>
+            <p>He gives a little light, that gives them hope; and in their prayers, and uſe of the means, ſometimes chears them a lit<g ref="char:EOLhyphen"/>tle, but ſettles them not yet, but makes them love and hope.</p>
+            <p>The will of believing, with ſtrife a<g ref="char:EOLhyphen"/>gainſt corruption (of love to God) is Gods work of his favor, as well as the power of Faith, <hi>Iſa.</hi> 1.19. <hi>Phil.</hi> 2.13.
+<pb n="21" facs="tcp:170006:11"/>
+               <hi>Rom.</hi> 7.18, 22. <hi>Mark</hi> 9.24. <hi>Pſal.</hi> 42.5. and argues his with ſuch.</p>
+            <p>Other men ſtrive not for faith,
+<note place="margin">Remiſſi<g ref="char:EOLhyphen"/>on in or<g ref="char:EOLhyphen"/>der of na<g ref="char:EOLhyphen"/>ture, is be<g ref="char:EOLhyphen"/>fore our repent<g ref="char:EOLhyphen"/>ance, but joyned with it in time, that repentance argues God re<g ref="char:EOLhyphen"/>conciled. Levit. 20, 41.</note> but they that have the grace begun. Grace is firſt infuſed without our ſeeking, and by it we aſpire to grace, and give no quiet ſettling to corruption.</p>
+            <p>Inward ſhame of that which hath been done againſt God (though not a<g ref="char:EOLhyphen"/>mongſt men ſhameful) (or if ſuch, not known) voluntary remembring of ſins, with ſhutting up a mans mouth, that he cannot complain of God for judge<g ref="char:EOLhyphen"/>ment, though it were of Hell (with hope, yet that it ſhall not be ſo) <hi>Ezek.</hi> 16.63. <hi>Rom.</hi> 6.21. <hi>Joh</hi> 42.6. <hi>Ezek.</hi> 20.43. In a time of Gods gracious dealing with them, not onely when he urgeth them to accuſe themſelves by judgements, <hi>Ezek.</hi> 36.31. intreating the Lord, and enquiring of him for his mercies, <hi>v.</hi> 37. It is the note of Gods people, <hi>They ſeek the Lord,</hi> Pſa. 24. <hi>confeſsing their ſins,</hi> 1 Joh. 1.9.</p>
+            <p>Healing of our nature, Gods Spirit given to a man to dwell in him, is his teſtimony of his accepting of the man, <hi>Acts</hi> 15.7, 8. <hi>His ſeal.</hi> Epheſ. 1.13. <hi>His earneſt,</hi> 2 <hi>Cor.</hi> 5. That if a man know
+<pb n="22" facs="tcp:170006:12"/>Gods grace hath changed him to be that which he was not, and he is not that which he was; he hath ſin in him, and appearing yet in his life; now ap<g ref="char:EOLhyphen"/>pears the ſtudy of piety, that he aſpires ſtill to the grace of God, and would unfainedly have it govern him, poor, in ſenſe of his nothingneſs in himſelf, purging the remnants of ſin, <hi>Rom.</hi> 8.13. 2 <hi>Tim.</hi> 2.21. 1 <hi>Joh.</hi> 3.3. <hi>Striving againſt ſin, Prov.</hi> 28.4. <hi>Heb.</hi> 12.4. 1 <hi>Cor.</hi> 9.27. <hi>Fearing ſin, Prov.</hi> 28.14. <hi>Eccleſ.</hi> 8.12. 2 <hi>Cor.</hi> 7.11. He hath it under Gods teſtimony and ſeal, that he is <hi>forgiven,</hi> and God reconciled to him.</p>
+            <p>God freeth ſome, and ſtrengthens others that he brings into the battle a<g ref="char:EOLhyphen"/>bout Faith. Both ſerve the Lord, ſome in ſweetneſs, ſome in ſharpneſs, ſome with glorying over adverſaries, ſome weeping in the ſtrife, yet laboring to diſſolve the temptation, ſome ſerve without fear, ſome delivered from the cauſe of the fear, yet feel it trouble them, and yet obey, love, hope, pray, hang on the Ordinances, <hi>to ſuck and be ſatisfied, Iſai.</hi> 66.</p>
+            <p>So their fear is not as the fear of the wicked in fulneſs,
+<note place="margin">Iſa. 8.12, 13.</note> without ſtudy of caſt<g ref="char:EOLhyphen"/>ing
+<pb n="23" facs="tcp:170006:12"/>it out, as a ſin againſt God, and the fruit of unbelief, with hatred of God, without ſeeking God, or care of ſancti<g ref="char:EOLhyphen"/>fying him in heart.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Verſ. </seg>11</label> They are otherwiſe taught of God,
+and that with inclining of their wills with love to obey him.</p>
+            <p>A tender, merciful, conſcionable for<g ref="char:EOLhyphen"/>giveneſs of other men that offend us, and treſpaſs againſt us, is a ſign that God hath forgiven us; for it is of that grace we have received from God re<g ref="char:EOLhyphen"/>conciled to us: It is therefore a prop of our Faith in praying for forgiveneſs, <hi>For even we forgive them that treſpaſs againſt us, Luke</hi> 11.4. Hath promiſe, as being an effect or fruit of the merit of Chriſt in us, <hi>Luke</hi> 6.37. It is reckoned a note of ſingular righteouſneſs above civil, <hi>to love enemies,
+<note place="margin">Matth. 5.</note> to pray for them</hi> in their di<g ref="char:EOLhyphen"/>ſtreſs, <hi>Pſal.</hi> 35.13, 14. to relieve them, <hi>Rom.</hi> 12. and eſpecially to be ſo deſirous of their ſalvation, that a man could finde in his heart to die for them, that their ſouls might be ſaved.</p>
+            <p>Heathens may remit ſome injuries, but not hating the ſin, not grieving for the ſinner, not of love of the Com<g ref="char:EOLhyphen"/>mandment,
+<pb n="24" facs="tcp:170006:13"/>not to all that offend, not with unwearied continuance in the duty; becauſe not of habitual love to God, and men, but occaſionally at friends requeſts for by-ends.</p>
+         </div>
+         <div type="part">
+            <pb n="25" facs="tcp:170006:13"/>
+            <head>Chriſts Humiliation.</head>
+            <epigraph>
+               <bibl>
+                  <hi>PHIL. 2.8.</hi>
+               </bibl>
+               <q>
+                  <p>He humbled himſelf, and became obedi<g ref="char:EOLhyphen"/>ent unto death, even the death of the croſs.</p>
+               </q>
+            </epigraph>
+            <p>THe Apoſtle urgeth his Exhortation to lowlineſs, and minding the good of other men, mentioned <hi>Verſ.</hi> 3, 4.</p>
+            <p n="1">1. By the example of Chriſt Jeſus, <hi>Ver.</hi> 5, 6. 2. By the good which doth follow of it, as it appears in the exalta<g ref="char:EOLhyphen"/>tion of Chriſt.</p>
+            <p>In the example of Chriſt, he pro<g ref="char:EOLhyphen"/>pounds to be conſidered, both his natu<g ref="char:EOLhyphen"/>ral excellency, <hi>v.</hi> 6. and his voluntary humility or infirmity, taken upon him for our ſake, <hi>v.</hi> 8.</p>
+            <p>
+               <hi>He humbleth himſelf</hi>] Chriſt humbled himſelf, in his birth, in his life, in his death. In his birth to be born of a poor
+<pb n="26" facs="tcp:170006:14"/>mother, who confeſſeth her contemp<g ref="char:EOLhyphen"/>tible ſtate, and low degree, <hi>Luke</hi> 1.48, 52. eſpouſed to a poor Carpenter, to be born in a ſtable amongſt beaſts; in his life, in that till thirty years of age, he led an obſcure and private life, as is gathered, working with his ſuppoſed Father in his Trade; for which, they which knew his education, objected it as ground of their contempt of him, that he was not onely the Son of a Car<g ref="char:EOLhyphen"/>penter, but himſelf a Carpenter. <hi>Mark</hi> 6.3. <hi>Is not this the Carpenter, the Son of</hi> Mary.</p>
+            <p>He at his time came to ſeek Baptiſm at the hands of <hi>John,</hi> as if he had need<g ref="char:EOLhyphen"/>ed it; which <hi>John</hi> would have refuſed, knowing that he baptized with the Holy Ghoſt, and needed not to come to him.</p>
+            <p>He refuſed not to be in the wilderneſs among wilde beaſts, and there to be tempted of the devil, to be carried in his bleſſed Body, as is probable, from place to place to the pinnacle, to a high mountain by the devil: in companying with them of low degree, as Fiſhers, not diſdaining to touch the Lepers for their healing, nor to give himſelf to be
+<pb n="27" facs="tcp:170006:14"/>uſed of any that would make uſe of him.</p>
+            <p>To that end, he eat with ſinners, talk<g ref="char:EOLhyphen"/>ed familiarly with Harlots, <hi>&amp;c.</hi> He waſhed his Diſciples feet; he turned not his face from ſhame and ſpitting; he ſuffered very unworthy things with a quiet minde.</p>
+            <p>And he humbled himſelf in death, to die between two theeves, a death accur<g ref="char:EOLhyphen"/>ſed; with the ſence of Gods wrath, of<g ref="char:EOLhyphen"/>fering himſelf to the judgement of God for all the Elect.</p>
+            <p>Conſider his minde in ſuch a dignity, by perſonal union of his humane na<g ref="char:EOLhyphen"/>ture, and follow lowlineſs.</p>
+            <p>
+               <hi>And became obedient] Obedience follows humbleneſs of minde.</hi> We are therefore commanded to humble our ſelves, to walk with our God, <hi>Micah</hi> 6.8. The Saints are ſaid to ſit down at Gods feet, and every one receive his words, <hi>Deut.</hi> 33.3. Sin hath pride with it, and in wilful ſins,
+<note place="margin">Jer. 2.31.</note> even good men are ſaid to deſpiſe the Lord, 2 <hi>Sam.</hi> 12.9.</p>
+            <p>It is the brand of all them that are lewd in their ways, they <hi>deſpiſe the Lord, Prov.</hi> 14.2. and are ſtout againſt him. He humbles men firſt, and takes away
+<pb n="28" facs="tcp:170006:15"/>their pride, and then makes them obe<g ref="char:EOLhyphen"/>dient, <hi>Job</hi> 33.17. An humble minde is willing to be appointed.</p>
+            <p n="2">2. Chriſt was obedient.</p>
+            <p>Firſt, <hi>Voluntarily</hi> of his own accord, with delight, as his meat and drink, <hi>John</hi> 4.32, 34.</p>
+            <p>Secondly, <hi>In all things,</hi> and in all de<g ref="char:EOLhyphen"/>grees, he told <hi>John</hi> as a reaſon of his coming to Baptiſm, that he muſt fulfil all righteouſneſs, <hi>Matth.</hi> 3. and ſaith, he came to fulfil the Law, <hi>Matth.</hi> 5. Not to do his own will, but the will of him that ſent him, <hi>John</hi> 6.38. Unto which will he fully ſubmitted himſelf, <hi>Matth.</hi> 26.39. <hi>Heb.</hi> 10.9.</p>
+            <p>And not onely to the Moral Law, but alſo to all thoſe Laws, which were pe<g ref="char:EOLhyphen"/>culiar to Gods people, whereby they profeſſed themſelves ſinners,
+<note place="margin">Gal. 4.4.</note> he was cir<g ref="char:EOLhyphen"/>cumciſed, offered oblations, <hi>Luke</hi> 2.21, 24. and performed other ceremonial obſervances,
+<note place="margin">Matth. 26.17, 20. Matth. 26.26.</note> 
+               <hi>Joh.</hi> 7.2, 10. He was bap<g ref="char:EOLhyphen"/>tized and received the Sacrament of his own body and blood, <hi>Matth.</hi> 3.18.</p>
+            <p>Thirdly, He did that always which pleaſed his Father, <hi>John</hi> 8.29. Both <hi>ma<g ref="char:EOLhyphen"/>terially</hi> and <hi>formally,</hi> both in reſpect of the work, and the heart, ſeeking the glory
+<pb n="29" facs="tcp:170006:15"/>of him that ſent him, <hi>Iohn</hi> 7.18. With all that love and zeal, with all that mercy and compaſſion which the Law commands.</p>
+            <p>He doth affirm, that thus he continued in his Fathers love, <hi>John</hi> 15.10. keeping his Commandments, which before his death he mentions in his prayer, com<g ref="char:EOLhyphen"/>mending himſelf, and his Diſciples to his Father. <hi>I have glorified thee on the earth, I have finiſhed the work which thou gaveſt me to do, John</hi> 17.4.</p>
+            <p>Fourthly, He was obedient to all, to whom by the Law he ſhould be obedi<g ref="char:EOLhyphen"/>ent, to God, to the Civil Magiſtrate, to his Parents.</p>
+            <p>He paid tribute, maintained <hi>Ceſars</hi> right, acknowledged <hi>Pilates</hi> power over him from above, and came down with his Parents, and remained SUbject to them, <hi>Luke</hi> 2.51. yet in the Lord, diſ<g ref="char:EOLhyphen"/>creetly, giving to God that which be<g ref="char:EOLhyphen"/>longed to him.</p>
+            <p>Fifthly, He continued in his obedi<g ref="char:EOLhyphen"/>ence until death, and died in obedience to his Fathers will, whereby he was the more accepted, <hi>Heb.</hi> 5.8. <hi>John</hi> 10.17. That he preferred his Fathers will of our Salvation, before his own life, and
+<pb n="30" facs="tcp:170006:16"/>refuſed not that death, which was the death of all other accurſed, that the moſt odious malefactors were put to.</p>
+            <p>This was partly that he might be a fit High Prieſt, <hi>Heb.</hi> 7.26, 27. who needed not to offer for his own fin; and herein he anſwered the Types, and was an offering without blemiſh accept<g ref="char:EOLhyphen"/>ed, and making acceptable.</p>
+            <p>Hereby we are juſtified by his obedi<g ref="char:EOLhyphen"/>ence unto death, both in doing and ſuf<g ref="char:EOLhyphen"/>fering, <hi>Rom.</hi> 5.18, 19. For as Chriſt was born to us, and given to us, <hi>Iſa.</hi> 9.6. <hi>John</hi> 4.10. <hi>Rom.</hi> 8.32. his obedience was for us, and ſome part of it, ſpeci<g ref="char:EOLhyphen"/>ally a part of his Mediation; it was a part of his Humiliation, whereby he declared himſelf inferior to his Father. It muſt needs then be imputed unto us, to our Juſtification, <hi>Heb.</hi> 10.10. by the which will we are ſanctified, <hi>Rom.</hi> 10.4. Chriſt is the end of the Law for Righ<g ref="char:EOLhyphen"/>teouſneſs to all that believe.</p>
+            <p>And herein we have full conſolation, a full diſcharge from our ſins by his ſuf<g ref="char:EOLhyphen"/>fering death, and a perfect righteouſ<g ref="char:EOLhyphen"/>neſs, as much as the Law can require, in which we pleaſe God, and are accept<g ref="char:EOLhyphen"/>ed unto eternal life. And in all, he is
+<pb n="31" facs="tcp:170006:16"/>
+               <hi>the Lord our Righteouſneſs.</hi> And it may be to us an example of obedience, to obey from the heart, counting it as our meat to obey intirely in all things, to obey devoutly with cheif affection to Gods glory, to obey conſtantly, and with con<g ref="char:EOLhyphen"/>tinuance unto death, and in death, for the time, place, kinde, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>To death]</hi> The death of Chriſt was the will of the Father, and Chriſt was vo<g ref="char:EOLhyphen"/>luntary in dying, though death had no power over him, being without ſin; yet he yeelded himſelf to it, and died (not one<g ref="char:EOLhyphen"/>ly in apprehenſion) (which to ſome, is more then the thing ſuffered comes to) but in ſenſe; ſuch a death as made him fear, cry, weep, ſweat blood, and utter his ſenſe of Gods wrath forſaking him, not ſeparating the united natures, but not ſo preſently delivering him.</p>
+            <p>He offered himſelf to God by his Eternal Spirit, <hi>Heb.</hi> 9.14.
+<note place="margin">Acts 4.27, 28.</note> God by his counſel determined, what <hi>Herod, Pontius Pilate,</hi> with the <hi>Gentiles,</hi> and the people of <hi>Iſrael</hi> were gathered together to do to him, and God is ſaid to deliver him for us all to death, <hi>Rom.</hi> 8.32. And Chriſt conſenting to his Father, came into the world, to give his life a ranſom for
+<pb n="32" facs="tcp:170006:17"/>many,
+<note place="margin">Heb. 9.26. Rom. 4. 1 Cor. 15.</note> 
+               <hi>Matth.</hi> 20.28. He did die to put away ſin by the Sacrifice of himſelf, to diſſolve the works of the Devil accord<g ref="char:EOLhyphen"/>ing to the promiſe; <hi>the ſeed of the woman ſhall break the head of the Serpent.</hi>
+            </p>
+            <p>To reconcile us to God, and ſet a peace between God and us, and between the <hi>Jews</hi> and the <hi>Gentiles,</hi> making of twain one new man in himſelf, <hi>Eph.</hi> 2.15, 16.</p>
+            <p>To deliver from the Devil that had the power of death, them that for fear of death, were all their life held in bondage, <hi>Heb.</hi> 6.14, 15.</p>
+            <p>He hath ſet Heaven open, and given us free entrance unto the Father, in the holy place, <hi>Eph.</hi> 2.18. <hi>Heb.</hi> 10.19.</p>
+            <p>He ratified Gods Covenant for ever, <hi>Heb.</hi> 12.20. He kills the power of ſin, <hi>Rom.</hi> 6.6. He deſtroyed death, concern<g ref="char:EOLhyphen"/>ing the power of it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſes </seg>1</label> We are hereby admoniſhed ſo to me<g ref="char:EOLhyphen"/>ditate of the death of Chriſt, by the Will of God, and his voluntary obedi<g ref="char:EOLhyphen"/>ence in dying, as to obtain this at our hands, to die in obedience to God: Not in impatience, through tediouſneſs of labors and affliction, nor of neceſ<g ref="char:EOLhyphen"/>ſity, becauſe our time is come, but obe<g ref="char:EOLhyphen"/>diently,
+<pb n="33" facs="tcp:170006:17"/>as ſacrificing our life unto God, whether it be a natural or violent death, none of us ought to live or to die unto himſelf, but to the Lord, <hi>Rom.</hi> 14.7.</p>
+            <p>We are to be moved hereby to lay down our lives for the Brethren; there<g ref="char:EOLhyphen"/>fore, that which is leſs then our lives, 1 <hi>John</hi> 3. to uſe humility, mercy, gen<g ref="char:EOLhyphen"/>tleneſs, towards others.</p>
+            <p>Firſt, We may hereby know the worth of Gods favor, by the price which it coſt.</p>
+            <p>Secondly, The great mercy of God, in delivering his Son to death for us, <hi>Rom.</hi> 5. The abundant love of Chriſt Jeſus to die for us.</p>
+            <p>Thirdly, The hatefulneſs of ſin, ſeeing the imputation of it brought Chriſt ſo low.</p>
+            <p>Fourthly, Labor for aſſurance of the communion with Chriſt in his death, and glory in the certainty of Gods Covenant for forgiveneſs of ſins, ſan<g ref="char:EOLhyphen"/>ctification, perſeverance, and eternal life.</p>
+            <p>It reproves them that remember not Chriſts death, do not think of it to work their affections to be like Chriſts therein, we owe to him the remem<g ref="char:EOLhyphen"/>brance
+<pb n="34" facs="tcp:170006:18"/>of him, and ſhewing forth of his death.</p>
+            <p>
+               <hi>Of the Croſs]</hi> This was Gods will, and herein Chriſt obeyed, that his death ſhould be for the kinde, the moſt odious and fulleſt of reproach, that is, to be hanged on a tree.</p>
+            <p>This was figured in the ſacrifice laid upon the wood, as in <hi>Iſaac,</hi> in the Bra<g ref="char:EOLhyphen"/>ſen Serpent lifted up on a pole,
+<note place="margin">Deut. 21.23.</note> and God in his ſecret counſel had pronoun<g ref="char:EOLhyphen"/>ced them accurſed that hanged on a tree, according to his purpoſe in Chriſt Jeſus, that he ſhould bear our curſe, <hi>Gal.</hi> 3.13.</p>
+            <p>They ſuffered for their own ſins, and he for ours; God would have that a prefiguration of this. And thus defile<g ref="char:EOLhyphen"/>ment is taken away and removed from us; the purgation being made by the death of Chriſt on the Croſs; the re<g ref="char:EOLhyphen"/>membrance of our vitiouſneſs is to be removed from all mens eyes.</p>
+            <p>This Chriſt himſelf foretold,
+<note place="margin">Matth. 20.19. Joh. 3.14. &amp; 8.28. &amp; 18.32.</note> and for this it was ordered, that the Jews were ſtiffe in deſiring him to be cruci<g ref="char:EOLhyphen"/>fied.</p>
+            <p>And thus the Apoſtles charge the Jews, <hi>Acts</hi> 5.30. <hi>&amp;</hi> 2.23. he took our
+<pb n="35" facs="tcp:170006:18"/>ſins with him to the tree, 1 <hi>Pet.</hi> 2.24. Spoiled principalities, and powers, and triumphed over them, <hi>Col.</hi> 2.</p>
+            <p>On the Croſs, Chriſt was encountred with exceeding fury, on which, legions of Divels of incomprehenſible rage, and long experience, and Gods anger was kindled againſt him as a ſurety for ſin<g ref="char:EOLhyphen"/>ners.</p>
+            <p>The Devils are ſpoiled, God ſatisfied, the wretched ſpirits are, as it were, drag<g ref="char:EOLhyphen"/>ged after the Chariot of Triumph, and expoſed to ſhame, and the Elect are re<g ref="char:EOLhyphen"/>ſtored.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> Seeing Chriſt yeelded himſelf unto the will of his Father, for ſuch a death, both ſhameful and bitter above other deaths, it muſt teach us humility.</p>
+            <p>Seeing he, being in the Form of God, abaſed himſelf in the form of a ſervant to die on a tree for us; let us endure the Croſs, and deſpiſe the ſhame.</p>
+            <p>Seeing the fruit of this death for us, Let us glory in the Croſs of Chriſt, and in nothing more, <hi>Gal.</hi> 6.14.</p>
+            <p>Seeing in the Croſs was Chriſts tri<g ref="char:EOLhyphen"/>umph, Let us not be aſhamed of Chriſt crucified, but reſolve to overcome alſo by ſufferings, <hi>Revel.</hi> 12.</p>
+            <pb n="36" facs="tcp:170006:19"/>
+            <p>And laſtly, Let it move us to take heed of ſinning againſt Chriſt, who ſub<g ref="char:EOLhyphen"/>mitted himſelf to the Croſs for us: How precious ſhould his remembrance be with us, and that Sacrament of his ho<g ref="char:EOLhyphen"/>ly Body and Blood that carrieth with it ſpecial remembrance of his love, in his dying on the Croſs for us, how ſhould it be deſired of us?</p>
+            <p>It muſt move us to look carefully to this, That the Croſs of Chriſt be not made of none effect by us, either by re<g ref="char:EOLhyphen"/>ceiving any Doctrine, making the death of Chriſt in vain, <hi>Gal.</hi> 5. or not apply<g ref="char:EOLhyphen"/>ing the Doctrine of Chriſt by Faith un<g ref="char:EOLhyphen"/>to reconciliation, but receiving grace in vain, 2 <hi>Cor.</hi> 6.1.</p>
+            <p>Or not making the death of Chriſt in the efficacy of it, powerful in us to crucifie the fleſh with the affections, as love of the world, worldly ſorrow, cor<g ref="char:EOLhyphen"/>rupt hatred, <hi>&amp;c.</hi> Luſts, as the luſt of the fleſh, the luſt of the eye <hi>&amp;c.</hi>
+            </p>
+            <p>It ſhould move us to take to heart,
+<note place="margin">Phil. 3.18.</note> even to tears, that men in the Church ſhould be enemies to the Croſs of Chriſt.</p>
+         </div>
+         <div type="part">
+            <pb n="37" facs="tcp:170006:19"/>
+            <head>Certainty of Salvation.</head>
+            <epigraph>
+               <bibl>
+                  <hi>1 THESS. 5.9.</hi>
+               </bibl>
+               <q>
+                  <p>For God hath not appointed us to wrath.</p>
+               </q>
+            </epigraph>
+            <p>THe Apoſtle addes this Reaſon to his Exhortation to watching, ſobriety, arming with Faith, Love, and Hope of Salvation, taken from the <hi>certainty</hi> of obtaining Salvation; which <hi>certainty</hi> is grounded in the knowledge of the gra<g ref="char:EOLhyphen"/>cious act of God in their exemption from his ordination to wrath, in his counſel and decree of their Salva<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Where note four things. Firſt, Gods act, <hi>ordained</hi> or <hi>put;</hi> the ſubject matter <hi>us;</hi> the end whereunto, amplified by antitheſis, <hi>Not unto wrath, but to obtain ſal<g ref="char:EOLhyphen"/>vation;</hi> the means whereby his decree was executed, <hi>By our Lord Jeſus Chriſt:</hi>
+               <pb n="38" facs="tcp:170006:20"/>Or thus, the Author of the decree, <hi>God;</hi> the nature of the decree, <hi>appointment or ordination, putting unto ſalvation,</hi> amplified by the contrary <hi>not unto wrath;</hi> the object of the decree <hi>Paul,</hi> and the believing <hi>Theſſalonians, us.</hi>
+            </p>
+            <p>In that <hi>Paul</hi> pleads his and the belie<g ref="char:EOLhyphen"/>ving <hi>Theſſalonians</hi> exemption from Gods Ordination to wrath, and his and their appointment to Salvation, obſerve we, <hi>That our freedom from periſhing, and our ap<g ref="char:EOLhyphen"/>pointment to eternal life, may be known, and we infallibly made certain, ſo as to profeſs our knowledge therein.</hi>
+            </p>
+            <p>This is the peculiar joy of the Diſci<g ref="char:EOLhyphen"/>ples of Chriſt, that their <hi>names are writ<g ref="char:EOLhyphen"/>ten in heaven, Luke</hi> 10.20. not that they may not rejoyce in other things, ſo they reſt not in them ſeparate from this, but their proper joy is not temporal grace, or mundane glory, but eternal ſalvation, which begins in Gods electi<g ref="char:EOLhyphen"/>on; which if they know not, how ſhall they rejoyce in it?</p>
+            <p>The Apoſtle grounding the ſecurity of Chriſtians, againſt the ſenſe of their corruptions within, and croſſes with<g ref="char:EOLhyphen"/>out in Gods benefits, to the Elect his juſtification ſecures them from accuſati<g ref="char:EOLhyphen"/>on
+<pb n="39" facs="tcp:170006:20"/>of all other, and Chriſts interceſſion from condemnation. Gods love in Chriſt from all adverſe power in reſpect of ſeparation from life. How ſhall this be applied, but by knowledge of our election? <hi>Rom.</hi> 8.33, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Paul</hi> knoweth his own ſalvation, and his election unto it, and profeſſeth his knowledge, <hi>Rom.</hi> 11.2. <hi>Peter</hi> calls up<g ref="char:EOLhyphen"/>on us to make our election ſure, 2 <hi>Pet.</hi> 1.10.</p>
+            <p>Election to life, and freedom from or<g ref="char:EOLhyphen"/>dination to wrath, may be known two ways ordinary, beſides the way of ſpe<g ref="char:EOLhyphen"/>cial revelation.</p>
+            <p n="1">1. By the teſtimony of Gods Spirit, who aſſuring our adoption, doth there<g ref="char:EOLhyphen"/>by aſſure our predeſtination to the a<g ref="char:EOLhyphen"/>doption: <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> For uſe,
+it is onely ſent into the hearts of ſons and heirs of God, <hi>Gal.</hi> 4.6. And it ſecureth their hearts againſt fears that aroſe of former bond<g ref="char:EOLhyphen"/>age; that with liberty of ſpirit they call God Father with great certainty, as appears in the doubling of the Word.</p>
+            <p>And knowing themſelves for the pre<g ref="char:EOLhyphen"/>ſent the ſons of God, as they wonder at Gods love, ſo they are ſure they ſhall
+<pb n="40" facs="tcp:170006:21"/>he glorious like Chriſt at his appearing; and as they know their ſalvation with eternal glory, they know their election thereunto, becauſe none are glorified, but the predeſtinate.</p>
+            <p n="2">2. Election may be known by the proper effects of it, of which a judge<g ref="char:EOLhyphen"/>ment may be gathered in a mans own ſoul, to aſſure his heart before God, and to give him boldneſs.</p>
+            <p>As the Apoſtle gathers the election of others,
+<note place="margin">1 Theſ. i. 4, 5. 2 Theſ. 2.13.</note> from the appearing effects, wherein God manifeſts his purpoſe of ſaving them, at leaſt probably, ſo may we by the evidence of the ſame grace, to be in truth in our ſelves,
+<note place="margin">Pſal. 65.5.</note> as cauſing to come to God by true converſion, and to Chriſt by Faith; ſo as we are new creatures, are made meet for Gods uſe, and fitted for our part in the lot of the Saints in light, perceive the power of Gods Ordinances in us, ſatisfying us with the pleaſures of his houſe, purging our ſelves from Errors and Vices,
+<note place="margin">2 Tim. 2.21. 1 Ioh. 3.3.</note> puri<g ref="char:EOLhyphen"/>fying our ſelves, as Chriſt is pure; and cleaving with purpoſe of heart, and with love of ſoul to God, and his do<g ref="char:EOLhyphen"/>ctrine in Chriſt.</p>
+            <p>Generally all the good that God doth
+<pb n="41" facs="tcp:170006:21"/>to us, concerning our ſalvation as effe<g ref="char:EOLhyphen"/>ctual grace, with the right uſe of it, is the effect, and ſo an evidence of electi<g ref="char:EOLhyphen"/>on.</p>
+            <p>Would God do ſuch things for us, ſhew us ſuch things, receive our offer<g ref="char:EOLhyphen"/>ings, if he went to deſtroy us? would a wife man beſtow lace and trimming on a filthy rag, to caſt it to the Dung<g ref="char:EOLhyphen"/>hil?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> Seeing we may know Gods good will, determining of us for good;
+
+<note place="margin">Pſal. 106.</note> it ſerves, Firſt, to ſtir us up to ſeek this of God, and to mark the voice of his Spi<g ref="char:EOLhyphen"/>rit in our hearts; when we hear the Goſpel, and when we pray to him, and with all to acquaint our ſelves with graces peculiar to the Elect, and prove our ſelves, whether we have them in us.</p>
+            <p>It is profitable to be certain, both for thankſgiving to God, and for kindling love, that may move us effectually to live to him, and to reſt our ſouls in fears and want of preſent things. <hi>Fear not little flock, it is your Fathers pleaſure to give you the Kingdom, Luke</hi> 12.32. It is profit<g ref="char:EOLhyphen"/>able alſo, even for humility, to know that all the reaſon of our differing from
+<pb n="42" facs="tcp:170006:22"/>other is Gods good pleaſure, he had no reſpect of any thing in us, of the profit of the knowledge of Election after.</p>
+            <p>Secondly, This ſerves for confutati<g ref="char:EOLhyphen"/>on of Papiſts, that hold no certainty to be had ordinarily of a mans electi<g ref="char:EOLhyphen"/>on while he lives here, becauſe this is a depth unſearchable, <hi>Romans</hi> 11. verſ. 33.</p>
+            <p>To which it may be anſwered, That the reaſon is unſearchable, but the thing is revealed to Gods children, what his will is to them by the Spirit, that ſearcheth the deep things of God; or becauſe a man cannot be certain of his Faith and Juſtice to be true, or if he could, yet they are not proper to the elect, but are given to reprobates, who continue not in them, and none know they ſhall have perſeverance.</p>
+            <p>To which, it may be anſwered, That a man may know his Faith, and Juſtice ſuch, as he may know he is not repro<g ref="char:EOLhyphen"/>bate, 2 <hi>Cor.</hi> 13.5. If ſo, then he may know he is elect, he may know his grace, ſo far as to aſſure his heart be<g ref="char:EOLhyphen"/>fore God, to have boldneſs in the day of judgement, and his perſeverance he knoweth by Gods promiſe, <hi>Jere.</hi> 32.40.
+<pb n="43" facs="tcp:170006:22"/>his faithfulneſs, 1 <hi>Corinth.</hi> 1.8, 9. by Chriſts merit and interceſſion, by the Spirits ſealing unto the day of Redemp<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label>
+               <hi>Object.</hi>
+But we are commanded <hi>to fear.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label>
+               <hi>Sol.</hi> Fear to ſin,
+but withal to truſt perfectly, to give diligence to full aſſu<g ref="char:EOLhyphen"/>rance of Faith unto the end; hold the confidence and rejoycing of our hope faſt.</p>
+            <p>
+               <hi>For God hath not appointed us.</hi>] As this ſtands for an Argument to excite the will to the chooſing and purſuit of theſe graces, to furniſh us for the good fight, obſerve we,</p>
+            <p>
+               <hi>That the certainty of our ſalvation under the ſeal of Gods decree, is an incentive to vertues, no occaſion of looſeneſs.</hi> It pro<g ref="char:EOLhyphen"/>vokes to the ſtudy of Faith, and Love, and puts on the care of all holy means and endeavors, tending to accompliſh Gods appointment, <hi>Col.</hi> 3.12, 13. <hi>As the elect of God, holy, and beloved, put on, &amp;c.</hi> 2 <hi>Peter</hi> 1.3, 4. 1 <hi>John</hi> 3.2, 3. <hi>Revel.</hi> 19.7. God hath joyned <hi>life and godlineſs, vertue and glory,</hi> Gods image is a great part of our glory, 2 <hi>Cor.</hi> 3.</p>
+            <pb n="44" facs="tcp:170006:23"/>
+            <p>Gods decree is to the means, and to the end; it is to ſave by ſanctification of the Spirit, and Faith of Truth, <hi>choſen us to be holy,</hi> Epheſ. 1.4. <hi>To obedience and ſprinkling of the blood of Jeſus Chriſt, through ſanctification of the Spirit.</hi> And this ſtudy God works in their hearts, unto whom he reveals their election unto life, for the accompliſhing of his counſel, that they may witneſs their thankfulneſs to him, that they may be counted worthy of his Calling, and of his Kingdom; For howſoever none be worthy of the ineſtimable felicity in Heaven, yet God doth fit all,
+<note place="margin">Col. 1.12.</note> and makes them meet for himſelf, and their inheritance in light; for whom he hath prepared it, and uſeth their own ſtudy, care, and labor, to apprehend that holineſs and happi<g ref="char:EOLhyphen"/>neſs, for which they have been appre<g ref="char:EOLhyphen"/>hended of him. To this purpoſe are the Exhortations to walk worthy of God, and of their Calling, and Prayers to be counted worthy to eſcape the things that come upon the Earth, and wor<g ref="char:EOLhyphen"/>thy of his Calling, 2 <hi>Theſ.</hi> 1.11.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> When we are tempted to unbeleef,
+to ſelf-love, to diſpair, to cleave to
+<pb n="45" facs="tcp:170006:23"/>earthly things, with neglect of ſpiritu<g ref="char:EOLhyphen"/>al graces, we ſhould thus reaſon. God hath not appointed us to perdition, and therefore we muſt not yeeld to motions ſtirring us to ſuch things, as bring per<g ref="char:EOLhyphen"/>dition, but to obtain Salvation, which he hath declared in his calling of us; therefore we muſt, and we will flee theſe things, and follow after Faith, Love, Godlineſs, Righteouſneſs, Gentleneſs, <hi>&amp;c.</hi> Fighting the good fight of Faith, till we lay hold on eternal life, where<g ref="char:EOLhyphen"/>unto we are called. 1 <hi>Tim.</hi> 6.11, 12. If we do theſe things we ſhall never fall, but abundant entrance ſhall be miniſtred unto us, into the everlaſting Kingdom of God.</p>
+            <p n="2">2. If ſin have prevailed in ſome act, let it move us to repentance, to purg<g ref="char:EOLhyphen"/>ing our ſelves, reaſoning thus, This is not the way, from election to ſalvation, but from reprobation to damnation: I will up therefore, and turn my feet into Gods Commandments, and forſaking the way of deſtruction, keep the way of life; for I am not appointed to wrath, but to ſalvation.</p>
+            <p n="3">3. In them it appears election takes
+<pb n="46" facs="tcp:170006:24"/>place, that make the love, and mercy, and unchangeable decree of God, a motive to follow Heavenly graces, and to give themſelves to God. They that ſhare in the mercies,
+<note place="margin">Rom. 12.1.</note> move their reſolu<g ref="char:EOLhyphen"/>tion thereby to ſacrifice themſelves to God,
+<note place="margin">2 Cor. 5.14.</note> that partake of Chriſts love, to work an addicting of themſelves to Chriſt <hi>&amp;c.</hi>
+            </p>
+            <p>Where therefore this is wrought, it is a ſign of our ſharing in this grace of election, when from the thought of it, we fight for our deliverance from ſin, the world and the devil, and arm our ſelves with grace unto the fight.</p>
+            <p>Then it is evident, <hi>Paul</hi> hath his part in the love of Chriſt dying for him, when for Chriſt he dieth to the world,
+<note place="margin">Gal. 2.19, 20.</note> that he may live to God.</p>
+            <p>She loveth much, therefore her many ſins are forgiven her; her affection argu<g ref="char:EOLhyphen"/>eth in her devout actions to Chriſt, that ſhe hath her part in his merit.</p>
+            <p>
+               <hi>Hath not appointed, or put us unto death]</hi> In this exemption of the Apoſtle, and the believing <hi>Theſſalonians</hi> from ordina<g ref="char:EOLhyphen"/>tion unto wrath; there is not darkly in<g ref="char:EOLhyphen"/>ſinuated, <hi>That ſome are ordained to wrath by
+<pb n="47" facs="tcp:170006:24"/>the Lord.</hi> Some mens deſtruction, not onely in general but in particular, not onely ſimply but in compariſon; this man, not that; <hi>Cain</hi> not <hi>Abel, Eſau</hi> not <hi>Jacob, Judas</hi> not <hi>Peter,</hi> decreed, <hi>&amp;c.</hi>
+            </p>
+            <p>He will ſhew mercy, on whom he will ſhew mercy; and whom he will, he hardneth. There are <hi>Veſſels of wrath pre<g ref="char:EOLhyphen"/>pared to deſtruction,</hi> not onely by them<g ref="char:EOLhyphen"/>ſelves ſinning, but by God ordaining their end, according to his abſolute power, and his prerogative; as the Potter hath to appoint his clay to the end and uſe of honor or diſhonor, and ſo to frame it out of the lump, <hi>Rom.</hi> 9.</p>
+            <p>I have hated <hi>Eſau,</hi> I have loved <hi>Jacob,</hi> without foreſight of their works; as Chriſt is ſet for the ruine of many in <hi>Iſrael, Luke</hi> 2.34. ſo ſome ſtumble at the ſtumbling ſtone, <hi>Rom.</hi> 9.32, 33. they ſtumble at the Word,
+<note place="margin">1 Pet. 2.8.</note> being diſobe<g ref="char:EOLhyphen"/>dient, unto the which they were even ordained; or, alſo appointed: Fore<g ref="char:EOLhyphen"/>written unto this deſtruction, or con<g ref="char:EOLhyphen"/>demnation, <hi>Jude v.</hi> 4. <hi>Prov.</hi> 16.4. <hi>He hath made all things for himſelf, even the wick<g ref="char:EOLhyphen"/>ed for the day of evil.</hi>
+            </p>
+            <pb n="48" facs="tcp:170006:25"/>
+            <p>In appointing to wrath, three things are ſigned, Rejection from grace and glory, deputation to ſins, ordained to deſtruction.</p>
+            <p n="1">1. For clearing God, Though we could not finde out his juſtice in this, yet we muſt hold the principle, <hi>God is righteous,</hi> Jere. 12.1 Rom. 9.14. <hi>Is there unrighteouſneſs with God? God forbid.</hi> Re<g ref="char:EOLhyphen"/>ject ſuch thoughts with abomina<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="2">2. God may be cleared, Firſt, in re<g ref="char:EOLhyphen"/>ſpect of his abſolute liberty, and right, or prerogative, by the ſimilitude of the Potter. He is not unrighteous in his action, whoſe will executes but lawful power.</p>
+            <p>Secondly, God in his liberty and prerogative, may be cleared in his ends of his action.</p>
+            <p>He appoints none to damnation for damnation ſake; he delights not in the deſtruction of his Creature; he reſpects his glory of power, of wrath, of juſtice, of patience, in bearing long with ſin<g ref="char:EOLhyphen"/>ners; and at laſt, puniſhing them powerfully, and righteouſly, and decla<g ref="char:EOLhyphen"/>ring his rich glory in the Veſſels of Mercy.</p>
+            <pb n="49" facs="tcp:170006:25"/>
+            <p>
+               <hi>As all things are of him, and through him, ſo all things are for him,</hi> Rom. 11.36. It is juſt for God to will his own glory, by that of which he hath abſolute power.</p>
+            <p n="3">3. He is cleared in his obtaining of this end of the glory of his juſtice, and power, in that he condemns, and de<g ref="char:EOLhyphen"/>ſtroyeth none in his wrath, but the ma<g ref="char:EOLhyphen"/>terial cauſe of their condemnation is found in themſelves.</p>
+            <p>He created all righteous, left man in the power of his will, by his own free<g ref="char:EOLhyphen"/>will he ſinned againſt God, and ſo loſt himſelf, and his freewil; his minde ſet on evil, his wiſdom contrary to God, and cannot be ſubject to God.</p>
+            <p>He ſuffers them with patience, giveth means of Repentance and Salvation for many, and many gifts, not onely world<g ref="char:EOLhyphen"/>ly but ſpiritual, makes them taſte of the excellencies of the life to come, doth what he can do for them, excepting the new creating of them, which is not un<g ref="char:EOLhyphen"/>to juſt proceeding required.</p>
+            <p>He cauſeth not, but permitteth their ſin, or in juſtice makes latter ſins, puniſhments of former, blinding them
+<pb n="50" facs="tcp:170006:26"/>that will not ſee, but wink at the light, hardning them that harden and obſti<g ref="char:EOLhyphen"/>nate their own hearts againſt his moti<g ref="char:EOLhyphen"/>ons; delivering them to their own hearts luſts, that will not hear his coun<g ref="char:EOLhyphen"/>ſel, till they fulfil their full meaſure of ſin; rejecting them without purpoſe of ever reclaiming them: And this is juſt.</p>
+            <p>And howſoever they cannot now but ſin, yet they ſin with freedom, without conſtraint from him, with delight, that they are ſaid to <hi>love death, Prov.</hi> 8.36. and to <hi>ſeek death.</hi>
+            </p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> 1. For that there is an appointment of ſome to wrath, it muſt ſtay us in our wondering at the ineffectualneſs of the Word in many, to whom it is preached, and that in a diverſe manner, or degree; ſome continue enemies, and diſobedi<g ref="char:EOLhyphen"/>ent, being enraged by it; ſome hear gladly, yet go back, offended at ſome<g ref="char:EOLhyphen"/>thing: All are not of God, <hi>all have not faith.</hi>
+            </p>
+            <p n="2">2. It may provoke us to haſten our aſſurance of our exemption from this ordination to wrath, by ſeparation from the way of reprobates, by getting
+<pb n="51" facs="tcp:170006:26"/>grace peculiar to the elect; diſtinguiſh<g ref="char:EOLhyphen"/>ing between reſtraining grace, and re<g ref="char:EOLhyphen"/>newing.</p>
+            <p n="3">3. It ſhould ſtir us up to vows of eter<g ref="char:EOLhyphen"/>nal thankfulneſs to God, having found our exemption from wrath, and our appointment to Salvation; not onely rejoycing with thankſgiving, that God hath appointed us to life, but that paſ<g ref="char:EOLhyphen"/>ſing by others, he hath reſpected us;
+<note place="margin">Luke 10.21.</note> it addes marvellous amplification to the mercy and love of God, <hi>Heb.</hi> 2.16. <hi>Mal.</hi> 1.2, 3. The ſoul that hath taſted this mercy, can never expreſs the mea<g ref="char:EOLhyphen"/>ſure of it, but rather faint in the admi<g ref="char:EOLhyphen"/>ration of it.</p>
+            <p>
+               <hi>But to obtain Salvation] The ſalvation of the ſaved, is made ſure by decree of the un<g ref="char:EOLhyphen"/>changable God.</hi> It is not onely fore<g ref="char:EOLhyphen"/>known, but put for us,
+<note place="margin">The per<g ref="char:EOLhyphen"/>ſons or<g ref="char:EOLhyphen"/>dained, us.</note> and we put unto it into Gods eternal decree, and fore<g ref="char:EOLhyphen"/>ordination; which is <hi>certain,</hi> not onely that ſome ſhall be ſaved; but for num<g ref="char:EOLhyphen"/>ber, more or fewer ſhall not be ſaved; and for perſons, theſe be, not they.</p>
+            <p>Which may be gathered by the diſtin<g ref="char:EOLhyphen"/>ction of Brother and Brother, <hi>Abel,</hi> not <hi>Cain;</hi> of ſuch as have election to the
+<pb n="52" facs="tcp:170006:27"/>ſame office, of King, <hi>David,</hi> not <hi>Saul;</hi> of <hi>Apoſtles, John</hi> 13. <hi>I ſpeak not of you all, I know whom I have choſen;</hi> of ordinary Preachers, many <hi>never known, Matth.</hi> 7. Some written in the Book of Life, their name in Gods eternal memory, <hi>Phil.</hi> 4. Such as have common favor to hear Sal<g ref="char:EOLhyphen"/>vation offered; the Election obtain, the reſt are blinded.</p>
+            <p>
+               <hi>As many as were ordained to life, believed;</hi> As if we ſhould ſay, Pew-fellows; ſo Work-fellows, Bed-fellows, one taken, another left; as God eternally had de<g ref="char:EOLhyphen"/>creed, that doth all things after the counſel of his will, to whom his works be known all, from the beginning of the world.
+<note place="margin">Act. 15.18. Rom. 8.29.</note>
+            </p>
+            <p>Gods fore-knowledge is in order be<g ref="char:EOLhyphen"/>fore predeſtination.
+<note place="margin">Act. 15.18. Rom. 8.29.</note> This puts differ<g ref="char:EOLhyphen"/>ence between one and another, Gods purpoſe according to election, <hi>Rom.</hi> 9.11. not of works, but of him that cal<g ref="char:EOLhyphen"/>leth, <hi>Matth.</hi> 20.16. Calling is effectual onely in ſuch perſons, and no other, as God hath choſen, <hi>Whom he predeſtina<g ref="char:EOLhyphen"/>ted, them he called.</hi>
+            </p>
+            <p>The particulars are known, the means ſent to them, continued for them, <hi>Acts</hi>
+               <pb n="53" facs="tcp:170006:27"/>18. and made effectual to them. The Lord knoweth who are his, 2 <hi>Tim.</hi> 2.19. Chriſt calls his ſheep by name, knoweth them, and knoweth others not to be his, <hi>Joh.</hi> 10.26, 27.</p>
+            <p>Of all the perſons that have been, are, or ever ſhall be in the world, the num<g ref="char:EOLhyphen"/>ber is finite, defined, and certain with God.</p>
+            <p>The generation of men, as it had a beginning, ſo ſhall it have an end by Gods will: And of all that are, ſome are appointed to ſalvation, ſome to damnation.</p>
+            <p>God is not ignorant whom he will ſave, whom he will damn; for he is moſt wiſe. The means prepared for the ſalvation of ſome, and fore-ſeeing or<g ref="char:EOLhyphen"/>dained for the deſtruction of ſome, can<g ref="char:EOLhyphen"/>not fail; for he is moſt mighty.</p>
+            <p>If the hairs of their heads be num<g ref="char:EOLhyphen"/>bred, much more the perſons elected be numbred.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Applic. </seg>
+               </label> It follows therefore,
+That God hath not left men to be framers of their for<g ref="char:EOLhyphen"/>tune; caſting lots on nond, but leaving men to make themſelves elect or repro<g ref="char:EOLhyphen"/>bate,
+<pb n="54" facs="tcp:170006:28"/>and that alterably, as they ſtand in faith and holineſs, or fall away from it.</p>
+            <p>Firſt, Mans wiſdom deals on better certainties, firſt determining of the end of his work, and accordingly diſpoſing of his workmanſhip.</p>
+            <p>Secondly, This way we are behold<g ref="char:EOLhyphen"/>ing to our ſelves, more then to Gods grace; that <hi>I may</hi> be elected and ſaved, I muſt thank God; that <hi>I am</hi> elected and ſaved, I may thank my ſelf. God made it poſſible, my free will made that poſſi<g ref="char:EOLhyphen"/>bility beneficial unto me; and ſo one man may inſult over another, as making the difference between himſelf, and an<g ref="char:EOLhyphen"/>other man, contrary to that, 1 <hi>Cor.</hi> 4.7.</p>
+            <p>Object. 2 <hi>Tim.</hi> 2.21. <hi>If a man therefore purge himſelf from theſe, he ſhall be a veſſel unto honor:</hi> It ſeems then a man may frame his own fortune, and make him<g ref="char:EOLhyphen"/>ſelf a Veſſel of honor.</p>
+            <p>
+               <hi>Sol.</hi> It is to be underſtood of his own knowledge of his election, by the figns.</p>
+            <p>
+               <hi>Object.</hi> It ſeems God hath not ſo un<g ref="char:EOLhyphen"/>alterably determined of the perſons,
+<pb n="55" facs="tcp:170006:28"/>but that one that was elect may fall from election, and another take his room; or elſe why is there mention of putting out names of the Book of life? <hi>Pſal.</hi> 69.28. <hi>Exod.</hi> 32.33.</p>
+            <p>
+               <hi>Sol.</hi> Such ſayings are to be under<g ref="char:EOLhyphen"/>ſtood of the manifeſting of Gods coun<g ref="char:EOLhyphen"/>ſel. They whom God, by open ſigns, joyns unto his people, are ſaid to be written in the Book of life; and ſo contrary, when God openly caſts them away, and roots them out of the Church, they are ſaid to be blotted out of the Book of Life that he hath written, as the falſe Prophets, <hi>Ezek.</hi> 13.9. <hi>They ſhall not be in the Aſſembly of my people, nor be written in the writings of the houſe of</hi> Iſrael, <hi>&amp;c.</hi>
+            </p>
+            <p>Some ſeem to be written, and are not; ſome ſeem to be written, and are ſo; they that ſeem, and are not, the Lord will upon their ſin manifeſt it, that they were not written; the other ſhall hold their account, <hi>Revel.</hi> 3.</p>
+            <p>It is a ſtrong foundation of comfort, that the perſons be unalterably elected. Rejoyce in this, your names are written
+<pb n="56" facs="tcp:170006:29"/>in Heaven. <hi>Rom.</hi> 8.33. <hi>Who ſhall accuſe the Elect of God?</hi>
+            </p>
+            <p>Nothing can ſeparate from the love of God in Chriſt. Election is in God, who changeth not; not in us that change, of Gods will, and fore-know<g ref="char:EOLhyphen"/>ledge, not of our works.</p>
+            <p>
+               <hi>To obtain Salvation</hi>] To obtain ſalva<g ref="char:EOLhyphen"/>tion, is not meant here to acquire it by their own merits; for the mean of their obtaining is determined in the Text, <hi>Chriſt Jeſus.</hi> But it is all one with other places, where the Elect are ſaid to be ordained to eternal life.</p>
+            <p>
+               <hi>God then hath determined of the final ſtate of the Elect:</hi> Elect they are, not onely to Means and Grace, but to the End, Salvation, <hi>Acts</hi> 13.48. <hi>To eternal life,</hi> Rom. 9.23. <hi>prepared to glory;</hi> to conformity with Gods Son in his Image, <hi>Rom.</hi> 8.29. Bleſſedneſs of a Kingdom, <hi>Matth.</hi> 25.34. Their place in Heaven near Chriſt, <hi>Matth.</hi> 20.23. Bleſ<g ref="char:EOLhyphen"/>ſing with all Spiritual Bleſſings in Hea<g ref="char:EOLhyphen"/>venly places, <hi>Eph.</hi> 1.</p>
+            <p>From Election, as a cauſe, flows Grace, and the right uſe of it to the
+<pb n="57" facs="tcp:170006:29"/>Elect; whatſoever pertains to Life or Godlineſs; all Graces qualifying the perſons elected, and making them meet for their Maſters uſe, and their lot a<g ref="char:EOLhyphen"/>mong the Saints in Light.</p>
+            <p>As the revealing of Chriſt, the ſecrets of the Kingdom, Faith in Chriſt, Uni<g ref="char:EOLhyphen"/>on with him, Juſtification, Adoption, Regeneration, Good works, perſeve<g ref="char:EOLhyphen"/>rance, with an impoſſibility to be ſedu<g ref="char:EOLhyphen"/>ced finally.</p>
+            <p>God keeps them by his power unto ſalvation, they ſhall never periſh. God reſerveth them to himſelf, <hi>Rom.</hi> 11. pre<g ref="char:EOLhyphen"/>ſerved in Jeſus Chriſt, <hi>Jude</hi> 1. ſo as their ſalvation is ſure and infalli<g ref="char:EOLhyphen"/>ble.</p>
+            <p>Which is matter of plentiful Con<g ref="char:EOLhyphen"/>ſolation, in all thoughts, perplexing or diſtreſſing. <hi>Fear not little flock, it is your Fathers good pleaſure to give you the Kingdom.</hi>
+            </p>
+            <p>
+               <hi>By Jeſus Chriſt.</hi>] <hi>This is the onely mean reſolved of in Gods Counſel, for the accom<g ref="char:EOLhyphen"/>pliſhment of Gods purpoſe, concerning the ſal<g ref="char:EOLhyphen"/>vation of the Elect, Jeſus Chriſt.</hi>
+            </p>
+            <p>He is therefore ſaid to be predeſtinate before the world, and we predeſtinate
+<pb n="58" facs="tcp:170006:30"/>
+               <hi>in him,
+<note place="margin">1 Pet. 1.20.</note> Epheſ.</hi> 1. Our Salvation of his gracious purpoſe, given us in <hi>Chriſt Jeſus</hi> before the world, 2 <hi>Tim.</hi> 1.9. And given are all to <hi>Chriſt Jeſus,</hi> that God will ſave; that he may purchaſe their ſalvation by his merit, and put them in poſſeſſion of it by his efficacy. <hi>John</hi> 6.37,
+<note place="margin">John 17.2.</note> 38, 39. Him hath the Fa<g ref="char:EOLhyphen"/>ther ſealed, to this work, to give food unto Eternal Life, <hi>John</hi> 6.27. And propounded for reconciliation by Faith in his Blood, <hi>Rom.</hi> 3.25. There is no other Name under Heaven to claim Sal<g ref="char:EOLhyphen"/>vation by.</p>
+            <p>Whence follow theſe things.</p>
+            <p>Firſt, That Chriſt is not the cauſe of our Election, though he be the Saviour: There is no cauſe without God, that moved him to chuſe where he hath choſen.</p>
+            <p>
+               <hi>Purpoſe, Grace, Good pleaſure,</hi> will of ſhewing mercy, doing with his own what he will, working all according to the Counſel of his will; Theſe are alledged as the onely cauſe, why he re<g ref="char:EOLhyphen"/>ſolved upon theſe perſons, in them to ſhew the riches of his Glory.</p>
+            <p>We are <hi>choſen in</hi> him, not <hi>for</hi> him; we
+<pb n="59" facs="tcp:170006:30"/>
+               <hi>are ſaved</hi> according to Gods purpoſe, <hi>for</hi> him; as ordained the mean, and meritorious cauſe, the Author of eter<g ref="char:EOLhyphen"/>nal Salvation.</p>
+            <p>Secondly, As many as God means to ſave, he (as he gives to Chriſt) ſo cauſeth to come to him, and not one more or leſs; that not being in this life joyn<g ref="char:EOLhyphen"/>ed to Chriſt, to be finally out of Chriſt,
+<note place="margin">Ioh. 10.</note> is a ſign of rejection from Grace and Life.</p>
+            <p>It is not as ſome dream, that an honeſt life, in a true or falſe Religion, will ſave. Then what loſt the Jews by ſtumbling at Chriſt, who ſought Righteouſneſs and Life without him?</p>
+            <p>The Apoſtle counts all dung for Chriſt, and deſireth to be found in him: He is our hope, by him onely we beleeve, and have acceſs to God. If we be Chriſts, we are <hi>Abrahams</hi> ſeed, and heirs of the Promiſe.</p>
+            <p>Chriſt gives himſelf for no other, but ſuch as are given of his Father to him; he layes down his life <hi>for his ſheep;</hi> he excludes the reſt out of his Interceſſi<g ref="char:EOLhyphen"/>on.</p>
+            <p>What Chriſt is as Mediator; what
+<pb n="60" facs="tcp:170006:31"/>he doth as Mediator; to whom he doth any thing by Mediation, is all by the will and appointment of his Father: His will he came to do; his work was appointed him, and that he finiſhed ac<g ref="char:EOLhyphen"/>cording to his will.</p>
+            <p>All other means are but ſubordinate, as Faith, Preaching, Sacraments, with relation to Chriſt. Chriſt onely abſo<g ref="char:EOLhyphen"/>lutely neceſſary; theſe as inſtruments to receive him.</p>
+            <p>Some, wanting theſe, have Chriſt to Salvation.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:170006:31"/>
+         </div>
+      </body>
+   </text>
+</TEI>
